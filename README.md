@@ -6,7 +6,7 @@ I am looking for a Full-Stack Engineer role where I can apply my technical skill
 
 ## 🚀 Skills & Technologies
 
-- Frontend: Vue, React, TypeScript, JavaScript, Tailwind CSS, Flutter
+- Frontend: Vue, React, TypeScript, JavaScript, Vuetify,Tailwind CSS, Flutter, Pinia
 
 - Backend: Node.js, Python (Django)
 
