@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 👋 , I am Ursula!
 
-<!--
-**Ursulashrestha/Ursulashrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills & Technologies
 
-Here are some ideas to get you started:
+Frontend: Vue, React, TypeScript, JavaScript, Tailwind CSS, Flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend: Node.js, Python (Django)
+
+Database: MongoDB, MySQL, PostgreSQL
+
+DevOps & Tools: Docker, AWS, Azure, CI/CD, GitHub Actions, Linux
+
+Others: Figma, Notion, Postman, Agile
+
+Interests: Cloud Architecture with AWS
+
+## 🎓 Education
+MSc in Computer Science with a specialization in Software Engineering from EPITA, Paris
+
+## 💡 Looking for Opportunities:
+
+I am looking for a Full-Stack Engineer role where I can apply my technical skills, collaborate with innovative teams, and develop solutions that drive real-world impact.
+
+
