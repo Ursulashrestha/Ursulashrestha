@@ -18,7 +18,7 @@ I am looking for a Full-Stack Engineer role where I can apply my technical skill
 
 - Interests: Cloud Architecture with AWS
 
-## 🎓 Education
+## 📚 Education
 MSc in Computer Science
 
 Specialization in Software Engineering
