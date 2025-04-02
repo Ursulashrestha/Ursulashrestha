@@ -26,7 +26,7 @@ Specialization in Software Engineering
 EPITA, Paris | 2026
 
 ## 🔗Portfolio
-Want to see what I can do? Check out my personal portfolio app! 🌐💻 
+Want to see what I can do? Check out my personal portfolio app I built! 🌐💻 
 
 (It's still a work in progress, but aren’t we all?)💁‍♀️
 
