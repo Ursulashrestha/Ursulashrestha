@@ -25,6 +25,11 @@ Specialization in Software Engineering
 
 EPITA, Paris | 2026
 
+## 🔗Portfolio
+Want to see what I can do? Check out my personal portfolio app! (It's still a work in progress, but aren’t we all?)🙆‍♀️
+
+[My Portfolio App](https://ursulashrestha.com.np/)
+
 ## 📫 Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/ursula-shrestha/)
 
