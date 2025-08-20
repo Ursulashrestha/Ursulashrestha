@@ -1,9 +1,5 @@
 ## Hi there 👋 , I am Ursula!
 
-## 💡 Looking for Opportunities
-
-I am looking for a Full-Stack Engineer role where I can apply my technical skills, collaborate with innovative teams, and develop solutions that drive real-world impact.
-
 ## 🚀 Skills & Technologies
 
 - Frontend: Vue, React, TypeScript, JavaScript, Vuetify,Tailwind CSS, Flutter, Pinia
