@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm John</h1>
+<h1 align="center">Hi there 👋, I'm Ursula</h1>
 
 ## 🚀 Skills & Technologies
 
