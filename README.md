@@ -10,6 +10,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40px" alt="Vue.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" alt="Node.js"/>
+  <img src="https://path-to-vuetify-logo.svg" width="40px" alt="Vuetify"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40px" alt="TailwindCSS"/>
   <img src="https://pinia.vuejs.org/logo.svg" width="40px" alt="Pinia"/>
   
@@ -23,26 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40px" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" alt="Figma"/>
 </p>
-## 🚀 Skills & Technologies
-
-- Frontend: Vue, React, TypeScript, JavaScript, Vuetify,Tailwind CSS, Flutter, Pinia
-
-- Backend: Node.js, Python (Django)
-
-- Database: MongoDB, MySQL, PostgreSQL
-
-- DevOps & Tools: Docker, AWS, Azure, CI/CD, GitHub Actions, Linux
-
-- Others: Figma, Notion, Postman, Agile
-
-- Interests: Cloud Architecture with AWS
-
-## 📚 Education
-MSc in Computer Science
-
-Specialization in Software Engineering
-
-EPITA, Paris | 2026
 
 ## 🔗Portfolio
 Want to see what I can do? Check out my personal portfolio app I built! 🌐💻 
