@@ -1,4 +1,4 @@
-                                       ## Hi there 👋 , I am Ursula!
+## Hi there 👋 , I am Ursula!
 
 ## 🚀 Skills & Technologies
 
