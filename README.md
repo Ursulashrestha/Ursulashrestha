@@ -1,4 +1,5 @@
 <h1 align="center">Hi there, I'm Ursula 👋</h1>
+<h3 align="center">⚡ Full-Stack Engineer | Cloud & AI Enthusiast ☁️ | Powered by Coffee ☕ |</h3>
 
 ### 🛠️ Languages and Tools:
 <p align="center">
@@ -10,7 +11,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40px" alt="Vue.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" alt="Node.js"/>
-  <img src="https://bestofjs.org/logos/vuetify.svg" width="40px" alt="Vuetify"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40px" alt="TailwindCSS"/>
   <img src="https://pinia.vuejs.org/logo.svg" width="40px" alt="Pinia"/>
   
@@ -21,7 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40px" alt="Flutter"/>
-  img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" width="40px" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" alt="Figma"/>
 </p>
 
