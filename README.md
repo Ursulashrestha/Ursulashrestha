@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ursula 👋</h1>
-<h3 align="center">⚡ Full-Stack Engineer | Cloud & AI Enthusiast ☁️ | Powered by Coffee ☕ |</h3>
+<h3 align="center">⚡ Full-Stack Engineer | 🤖 Cloud & AI Enthusiast ☁️ | Powered by Coffee ☕ </h3>
 
 ### 🛠️ Languages and Tools:
 <p align="center">
