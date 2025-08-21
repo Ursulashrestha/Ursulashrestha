@@ -1,4 +1,4 @@
-## Hi there 👋 , I am Ursula!
+<h1 align="center">Hi there 👋, I'm John</h1>
 
 ## 🚀 Skills & Technologies
 
