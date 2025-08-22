@@ -32,9 +32,10 @@ Want to see what I can do? Check out my personal portfolio app I built! 🌐💻
 👉 [My Portfolio App](https://ursulashrestha.com.np/)
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ursula-shrestha/)
+<a href="https://www.linkedin.com/in/ursula-shrestha/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+</a>
 Feel free to connect with me on LinkedIn!
-
 
 
 
